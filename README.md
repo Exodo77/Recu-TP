@@ -6,6 +6,12 @@ Sitio web desarrollado con **React** y **Vite** que integra un formulario de con
 
 ---
 
+## Vista general del sitio
+
+![Vista general del sitio](./docs/vista-general.jpg)
+
+---
+
 ## Como funciona
 
 El sitio cuenta con una interfaz dividida en dos secciones principales adaptables a cualquier pantalla:
